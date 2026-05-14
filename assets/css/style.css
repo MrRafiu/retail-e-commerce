@@ -16557,18 +16557,22 @@ span.star:before {
   .vertical-menu.pd3 {
     padding: 36px 10px 30px 270px; }
   .vertical-menu.homebg {
-    background: url("../img/megamenu/home-bg.jpg") no-repeat center; }
+    background: url("../img/product/macbook.jpg") no-repeat right center;
+    background-size: contain; }
   .vertical-menu.style1.menu-level-1 > .level1 > .level2 > a {
     margin-bottom: 16px;
     padding-bottom: 9px; }
   .vertical-menu.style1.menu-level-1 > .level1 > .level2 .menu-level-2 > .level3 > a {
     line-height: 24px; }
   .vertical-menu.tvbg {
-    background: url("../img/megamenu/tv-bg.jpg") no-repeat center; }
+    background: url("../img/product/tv2.jpg") no-repeat right center;
+    background-size: contain; }
   .vertical-menu.phonebg {
-    background: url("../img/megamenu/phone-bg.jpg") no-repeat center; }
+    background: url("../img/product/samsung.jpg") no-repeat right center;
+    background-size: contain; }
   .vertical-menu.headphonebg {
-    background: url("../img/megamenu/headphone-bg.jpg") no-repeat center; }
+    background: url("../img/product/headphone4.jpg") no-repeat right center;
+    background-size: contain; }
   .vertical-menu h3 {
     font-size: 16px;
     margin-top: 10px; }
